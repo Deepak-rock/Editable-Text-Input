@@ -1,6 +1,7 @@
+import EditableInput from './components/EditableInput'
 import './App.css'
 
 // Replace your code here
-const App = () => <h1>Hello World</h1>
+const App = () => <EditableInput />
 
 export default App
